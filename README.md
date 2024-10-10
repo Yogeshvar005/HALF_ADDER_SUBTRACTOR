@@ -79,14 +79,14 @@ endmodule
 
 **Output RTL Schematic**
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/661f7441-7358-46bd-8973-d6622383c708)
 
 **Output/TIMING Waveform**
 ###  Half_adder
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/3eeff117-1274-4566-8cf1-d02b316109b3)
 
 ### Half_subtractor
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/a93a46ee-2c09-48cd-a98a-76b44516e76e)
 
 
 
